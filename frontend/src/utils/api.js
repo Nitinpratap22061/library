@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://library-3u32.onrender.com/api';
 
 // Books API
 export const fetchBooks = async () => {
